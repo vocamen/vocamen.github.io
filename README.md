@@ -1,2 +1,1 @@
-# vocamen.github.io
-This is the root
+Please visit subdomains for now :)
