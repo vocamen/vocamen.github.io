@@ -1,17 +1,17 @@
 # --- General options --- #
 
 # Name of website
-title: PWA Book
+title: Vocamen
 
 # Short description of your site
-description: Community around the Progressive Web App Book
+description: Mission to reach screens
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
 # *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
 # url is the the website domain URL without a trailing slash
-url: "https://vocamen.com/PWABook"
+url: "https://vocamen.com"
 
 # baseurl should be an empty string
 #baseurl: ""
@@ -20,10 +20,10 @@ url: "https://vocamen.com/PWABook"
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  About Me: "Who"
   Resources:
-    - Get the PWA Book: "https://vocamen.com/PWABook"
-  Author's home: "https://vocamen.com/PWABook"
+    - Get the PWA Book: "https://vocamen.com"
+  Author's home: "https://vocamen.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -59,7 +59,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Phil Manzano
+  name: P Manzano
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -125,9 +125,9 @@ url-pretty: "vocamen.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # To use Staticman comments, fill in repository, branch, and endpoint
 staticman:
-  repository : vocamen/PWABook # GitHub username/repository eg. "vocamen/PWABook"
+  repository : vocamen # GitHub username/repository eg. "vocamen/PWABook"
   branch     : master # If you're not using `master` branch, then you also need to update the `branch` parameter in `staticman.yml`
-  endpoint   : https://mkkeffeler-staticman.glitch.me/v3/entry/github/ # https://ntsim-staticman.glitch.me/v2/entry/github/ # URL of your own deployment, with a trailing slash (will fallback to a public GitLab instance) eg. https://<your-api>/v3/entry/github/
+  endpoint   : https://mkkeffeler-staticman.glitch.me/v3/entry/github/ # URL of your own deployment, with a trailing slash (will fallback to a public GitLab instance) eg. https://<your-api>/v3/entry/github/
   reCaptcha:
     # reCaptcha for Staticman (OPTIONAL, but recommended for spam protection)
     # If you use reCaptcha, you must also set these parameters in staticman.yml
