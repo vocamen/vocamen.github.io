@@ -1,1 +1,1 @@
-Please visit subdomains for now :)
+Please visit vocamen.com
