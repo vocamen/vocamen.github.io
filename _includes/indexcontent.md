@@ -3,14 +3,16 @@
 ### Vision Statement
 > Reaching people on screens with Christ's love
 
-This is our [mission]()
+This is our [mission](#mission)
 
 <a name="ccc"></a>
 ## Create-Cast-Care
-Today, we're making and want to do more of:
+We reach out through creative message that we cast on different media and we care for the people that get it into their hearts.
 
-- [Open Source Mobile Apps]()
-- [Movies](storyboard)
+Today, we're making:
+
+- Open Source Mobile Apps, [example](https://github.com/vocamen/godisciple), [more](https://github.com/vocamen?tab=repositories)
+- [Animation Movies and TV-Web series](storyboard)
 - [Interactive Experiences](IF)
 - [Art](poster)
 - [Communities](discord)
