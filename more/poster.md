@@ -3,7 +3,7 @@ layout: page
 title: Art
 use-site-title: true
 ---
-![first meeting poster](/img/affiche_rencontre.jpg)
+![first meeting poster](../../img/affiche_rencontre.jpg)
 
 This is the poster we made for our first official meeting.
 
