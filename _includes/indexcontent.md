@@ -10,15 +10,15 @@ This is our [mission]()
 Today, we're making and want to do more of:
 
 - [Open Source Mobile Apps]()
-- [Movies]()
-- Books
-- [Interactive Experiences]()
-- Art
-- Communities
+- [Movies](storyboard)
+- [Interactive Experiences](IF)
+- [Art](poster)
+- [Communities](discord)
 - [Kindness Challenges]()
-- Stories, Characters, [Scripts](), [Storyboard]()
-- [Teaching Videos]()
-- Websites, VFX, Tutorials
+- Stories, Characters, [Scripts](youtube), [Storyboards](storyboard)
+- [Teaching Videos](blender)
+- Website [generators](http://www.vocamen.com/bible-topics/), VFX, Tutorials
+- [2D](granny) and 3D Animations
 - Even [Worlds]()
 
 We train groups of volunteers in [churches]().
@@ -46,21 +46,16 @@ Artisitic Diretor since 1997, Digital Marketing Manager for 29 countries, Entrep
 
 <a name="mission"></a>
 ## Mission
-Vocamen is a christian mission on the Internet.
-It's based in Europe, and we expand in other regions. Feel free to [engage]() as a regional ambassador. 
-We're currently seeking volunteers in these regions:
-- USA
-- UK 
-- Canada
-- Asia
-- Australia
+Vocamen is a Christian mission mainly based on internet.
+It is based in Europe, and other regional implementations are studied. 
+Feel free to [engage](_includes/engage.md) as a regional ambassador!
 
 Our mission benefits from financial gifts and monthly supports on https://patreon.com/vocamen
 
 We provide training in local [churches]() to help develop a new kind of outreach. 
 [Contact us](mailto:support@vocamen.com) to explain your specific needs and get more materials to help your evangelization.
 
-Our Christian faith is like Christ, non-denominational (). It is based on the Bible, and today's work of the Holy Spirit.
+Our Christian faith conforms to the image of Christ (Rm 8:29), non-denominational (Luke 23:43). It is based on the Bible, and the work of the Holy Spirit.
 
 
 <a name="services"></a>
