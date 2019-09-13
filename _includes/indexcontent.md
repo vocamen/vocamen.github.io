@@ -44,7 +44,7 @@ Vision and full time service.
 
 - P Manzano:
   - Artisitic Diretor since 1997, Digital Marketing Manager for 29 countries, Entrepreneur.
-- Add your name here! Engagement [welcome](engage.html)
+- Add your name here! Engagement [welcome]({% link engage.html %})
 
 <a name="mission"></a>
 ## Mission
