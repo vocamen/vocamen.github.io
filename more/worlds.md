@@ -20,3 +20,5 @@ But why building worlds? Does Christians need to do that?
 [http://www.cslewisinstitute.org/What_if_the_best_work_was_always_done_by_a_Christian](http://www.cslewisinstitute.org/What_if_the_best_work_was_always_done_by_a_Christian)
 
 That's why he wrote the Narnia Saga.
+
+![first meeting poster](../../img/TerraMia.png)
