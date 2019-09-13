@@ -47,23 +47,19 @@ Artisitic Diretor since 1997, Digital Marketing Manager for 29 countries, Entrep
 <a name="mission"></a>
 ## Mission
 Vocamen is a Christian mission mainly based on internet.
-It is based in Europe, and other regional implementations are studied. 
 Feel free to [engage](_includes/engage.md) as a regional ambassador!
 
 Our mission benefits from financial gifts and monthly supports on https://patreon.com/vocamen
 
 We provide training in local [churches]() to help develop a new kind of outreach. 
-[Contact us](mailto:support@vocamen.com) to explain your specific needs and get more materials to help your evangelization.
-
-Our Christian faith conforms to the image of Christ (Rm 8:29), non-denominational (Luke 23:43). It is based on the Bible, and the work of the Holy Spirit.
-
+[Contact us](mailto:support@vocamen.com) to detail your specific needs and get more materials to help your evangelization.
 
 <a name="services"></a>
 ## Services
-- [Trainings]()
+- [Trainings](patreon)
 - Films
 - VFX
-- ultra fast, load balanced websites with no monthly fees for hosting
+- [generative websites](/generative.md)
 - [magazines]()
 - [flyers]()
 - [cards]() t-shirts
