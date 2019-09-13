@@ -14,7 +14,7 @@ description: Mission to reach screens
 url: "https://vocamen.com"
 
 # baseurl should be an empty string
-#baseurl: ""
+baseurl: ""
 
 # --- Navigation bar options --- #
 
