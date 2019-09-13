@@ -18,4 +18,4 @@ We made it to show our skills and break down details.
 We'd love your [support](https://patreon.com/vocamen), to help us make Christian movies.
 Every cent counts.
 
-Also visit [Storyboard](more/storyboard/) to see 3D animations and more details about movie creations.
+Also visit [Storyboard](../storyboard/) to see 3D animations and more details about movie creations.
