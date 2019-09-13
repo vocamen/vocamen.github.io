@@ -7,11 +7,11 @@ This is our [mission](#mission)
 
 <a name="ccc"></a>
 ## Create-Cast-Care
-We reach out through creative messages that we cast on different media and we care for the people that get them into their hearts.
+We reach out through creative message that we cast on different media and we care for the people that get it into their hearts.
 
 Today, we're making:
 
-- Open Source Mobile Apps, [example](godisciple), [more](https://github.com/vocamen?tab=repositories)
+- Open Source Mobile Apps, [example](https://github.com/vocamen/godisciple), [more](https://github.com/vocamen?tab=repositories)
 - [Animation Movies and TV-Web series](storyboard)
 - [Interactive Experiences](IF)
 - [Art](poster)
