@@ -73,5 +73,3 @@ Please [contact us](mailto:support@vocamen.com) with your specific needs for a q
 U turn video
 Patreon
 direct transfer
-
-{{ page.path }}

@@ -23,9 +23,9 @@ navbar-links:
   Support: "https://patreon.com/vocamen"
   Services:
     - Animations : "https://vocamen.com"
-    - Websites : "https://vocamen.com"
+    - Websites : "more/generative/"
   Mission: "#mission"
-  Join: "engage.html"
+  Join: "engage/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
