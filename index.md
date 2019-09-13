@@ -1,8 +1,11 @@
 ---
 layout: page
-title: Vocamen
+title: Christ's love on screens
 subtitle: Christ's love on screens
-use-site-title: true
+use-site-title: false
+bigimg: /img/screens.jpg
+gh-repo: vocamen/vocamen.github.io
+gh-badge: [star, fork, follow]
 ---
 
 {% include indexcontent.md %}

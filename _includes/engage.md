@@ -2,6 +2,8 @@
 layout: page
 title: Contact
 use-site-title: true
+gh-repo: vocamen/vocamen.github.io
+gh-badge: [star, fork, follow]
 ---
 <form action="https://formsubmit.co/info@vocamen.com" method="POST">
     <input type="text" name="name">

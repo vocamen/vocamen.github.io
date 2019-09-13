@@ -36,7 +36,7 @@ We encourage [Christian Talents]()
 
 ## With
 * Free tools (open source prefered, freeware, given licenses)
-* You! Your [gifts]() and your [engagement]()
+* You! Your [gifts]() and your [engagement]({% link engage.md %})
 
 <a name="who"></a>
 ## Who
@@ -44,7 +44,7 @@ Vision and full time service.
 
 - P Manzano:
 Artisitic Diretor since 1997, Digital Marketing Manager for 29 countries, Entrepreneur.
-- Add your name here! Engagement [welcome]()
+- Add your name here! Engagement [welcome]({% link _includes/engage.md %})
 
 <a name="mission"></a>
 ## Mission
