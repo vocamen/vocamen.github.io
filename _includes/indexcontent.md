@@ -36,7 +36,7 @@ We encourage [Christian Talents]()
 
 ## With
 * Free tools (open source prefered, freeware, given licenses)
-* You! Your [gifts]() and your [engagement](engage/)
+* You! Your [gifts]() and your [engagement](more/engage/)
 
 <a name="who"></a>
 ## Who
@@ -44,12 +44,12 @@ Vision and full time service.
 
 - P Manzano:
   - Artisitic Diretor since 1997, Digital Marketing Manager for 29 countries, Entrepreneur.
-- Add your name here! Engagement [welcome]({% link engage.html %})
+- Add your name here! Engagement [welcome](more/engage/)
 
 <a name="mission"></a>
 ## Mission
 Vocamen is a Christian mission mainly based on internet.
-Feel free to [engage]() as a regional ambassador!
+Feel free to [engage](more/engage/) as a regional ambassador!
 
 Our mission benefits from financial gifts and monthly supports on https://patreon.com/vocamen
 
@@ -61,12 +61,12 @@ We provide training in local [churches]() to help develop a new kind of outreach
 - [Trainings](patreon)
 - Films
 - VFX
-- [generative websites](/generative.md)
+- [generative websites](more/generative/)
 - [magazines]()
 - [flyers]()
 - [cards]() t-shirts
 
-Please [contact us](mailto:support@vocamen.com) with your specific needs for a quotation 
+Please [contact us](more/engage/) with your specific needs for a quotation 
 
 <a name="gifts"></a>
 ## Gifts

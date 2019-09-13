@@ -4,8 +4,9 @@ title: Contact
 use-site-title: true
 ---
 <form action="https://formsubmit.co/info@vocamen.com" method="POST">
-    <input type="text" name="name">
-    <input type="email" name="email" placeholder="Email Address">
+    <p><input type="textarea" name="message" placeholder="Message"></p>
+    <p><input type="text" name="name" placeholder="Name"></p>
+    <p><input type="email" name="email" placeholder="Email Address"></p>
     <input type="hidden" name="_replyto">
 	<input type="hidden" name="_subject" value="Vocamen Contact">
 	<input type="hidden" name="_template" value="box">
