@@ -5,11 +5,13 @@ use-site-title: true
 ---
 ![first meeting poster](../../img/worldbuilding.ong.png)
 
-This map is not just a map of a Pangea world, it also includes biomes, cultures, cities, nations, and stories.
+This map is not just a map of a Pangea world, it also includes biomes, cultures, cities, populated nations, and stories.
 
 It is the beginning of 70 trips, 70 discoveries and wonders.
 
-### C.S Lewis explained why we need to cater worlds to occupy the line of communication
+But why building worlds? Does Christians need to do that?
+
+### C.S Lewis explains
 > We can make people (often) attend to the Christian point of view for half an hour or so;
 > but the moment they have gone away from our lecture or laid down our article, they are 
 > plunged back into a world where the opposite position is taken for granted. 
