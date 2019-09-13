@@ -38,7 +38,7 @@ Vocamen encourages [Christian Talents]() by providing material and trainings for
 ## How
 - Webcasts to our [Communities](#communities)
 - [Meetings in churches](#churches)
-- [Professional service]()
+- [Services](#services)
 - [Tutorial]() and marketing
 
 ## With
