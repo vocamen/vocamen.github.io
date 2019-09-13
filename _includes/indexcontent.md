@@ -14,14 +14,14 @@ Today, we're making:
 - Open Source Mobile Apps, [example](godisciple), [more](https://github.com/vocamen?tab=repositories)
 - [Animation Movies and TV-Web series](more/storyboard/)
 - Interactive Experiences, example (in french): [Interactive Fiction](https://realistis.bitbucket.io)
-- [Art](poster/)
+- [Art](more/poster/)
 - [Communities](discord)
 - [Kindness Challenges]()
-- Stories, Characters, [Scripts](youtube), [Storyboards](storyboard)
-- [Teaching Videos](blender)
-- Website [generators](http://www.vocamen.com/bible-topics/), VFX, Tutorials
-- [2D](granny) and 3D Animations
-- Even [Worlds]()
+- Stories, Characters, [Scripts, Storyboards](more/storyboard/)
+- [Teaching Videos](more/storyboard/)
+- Website [generators](more/generative/), VFX, Tutorials
+- [2D and 3D Animations](more/animations/)
+- Even [Worlds](more/worlds/)
 
 We train groups of volunteers in [churches]().
 
