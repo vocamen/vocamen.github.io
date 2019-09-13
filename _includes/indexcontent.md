@@ -43,7 +43,7 @@ We encourage [Christian Talents]()
 Vision and full time service.
 
 - P Manzano:
-Artisitic Diretor since 1997, Digital Marketing Manager for 29 countries, Entrepreneur.
+  - Artisitic Diretor since 1997, Digital Marketing Manager for 29 countries, Entrepreneur.
 - Add your name here! Engagement [welcome]({% link /_includes/engage.md %})
 
 <a name="mission"></a>
