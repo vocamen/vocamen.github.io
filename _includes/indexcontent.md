@@ -36,7 +36,7 @@ We encourage [Christian Talents]()
 
 ## With
 * Free tools (open source prefered, freeware, given licenses)
-* You! Your [gifts]() and your [engagement](../engage.html)
+* You! Your [gifts]() and your [engagement](engage/)
 
 <a name="who"></a>
 ## Who
