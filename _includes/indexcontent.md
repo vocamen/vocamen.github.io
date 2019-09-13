@@ -36,7 +36,7 @@ We encourage [Christian Talents]()
 
 ## With
 * Free tools (open source prefered, freeware, given licenses)
-* You! Your [gifts]() and your [engagement]({% link engage.md %})
+* You! Your [gifts]() and your [engagement]()
 
 <a name="who"></a>
 ## Who
@@ -49,7 +49,7 @@ Artisitic Diretor since 1997, Digital Marketing Manager for 29 countries, Entrep
 <a name="mission"></a>
 ## Mission
 Vocamen is a Christian mission mainly based on internet.
-Feel free to [engage](_includes/engage.md) as a regional ambassador!
+Feel free to [engage]() as a regional ambassador!
 
 Our mission benefits from financial gifts and monthly supports on https://patreon.com/vocamen
 
