@@ -11,19 +11,20 @@ description: Mission to reach screens
 # *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
 # url is the the website domain URL without a trailing slash
-url: "https://vocamen.com"
+# url: "https://vocamen.com"
 
 # baseurl should be an empty string
-baseurl: ""
+# baseurl: ""
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "Who"
-  Resources:
-    - Get the PWA Book: "https://vocamen.com"
-  Author's home: "https://vocamen.com"
+  Support: "https://patreon.com/vocamen"
+  Services:
+    - Animations : "https://vocamen.com"
+    - Websites : "https://vocamen.com"
+  Mission: "#mission"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -67,7 +68,7 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "support@vocamen.com"
+  email: ""
   github: vocamen
 #  reddit: yourname
 #  linkedin: daattali
@@ -90,7 +91,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "vocamen.com"  # eg. "deanattali.com/beautiful-jekyll"
+# url-pretty: "vocamen.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
