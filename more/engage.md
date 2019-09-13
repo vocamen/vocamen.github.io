@@ -3,7 +3,7 @@ layout: page
 title: Contact
 use-site-title: true
 ---
-<form action="https://formsubmit.co/info@vocamen.com" method="POST">
+<form action="https://formsubmit.co/dc2ad8aaba123bcec1de34168981914e" method="POST">
     <p><input type="textarea" name="message" placeholder="Message"></p>
     <p><input type="text" name="name" placeholder="Name"></p>
     <p><input type="email" name="email" placeholder="Email Address"></p>
