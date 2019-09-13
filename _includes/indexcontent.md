@@ -12,9 +12,9 @@ We reach out through creative messages that we cast on different media and we ca
 Today, we're making:
 
 - Open Source Mobile Apps, [example](godisciple), [more](https://github.com/vocamen?tab=repositories)
-- [Animation Movies and TV-Web series](storyboard)
-- [Interactive Experiences](IF)
-- [Art](poster)
+- [Animation Movies and TV-Web series](more/storyboard/)
+- Interactive Experiences, example (in french): [Interactive Fiction](https://realistis.bitbucket.io)
+- [Art](poster/)
 - [Communities](discord)
 - [Kindness Challenges]()
 - Stories, Characters, [Scripts](youtube), [Storyboards](storyboard)

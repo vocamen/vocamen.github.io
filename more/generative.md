@@ -18,8 +18,8 @@ It pathed the way to Web Apps, where the whole site content is now an installabl
 
 We're currently writing a book to help you switch to lean website and another book to build a Web App.
 
-We're also developing code transforming content living in the form of linked tables provided in CSV, JSON, XML. It generates pages content based on rules (languages, templates) and is served by Jekyll-like services. Have a look at https://github.com/vocamen/bible-topics
+We're also developing code transforming content living in the form of linked tables provided in CSV, JSON, XML. It generates pages content based on rules (languages, templates) and is served by Jekyll-like services. Have a look at some [bible-topics](https://github.com/vocamen/bible-topics) we developed.
 
 I hope these few keywords and links will help you understand this technical subject.
 
-If you need help migrating your content to this new paradigm and start serve your users with more flexibility, feel free to [contact](engage) us.
+If you need help migrating your content to this new paradigm and start serve your users with more flexibility, feel free to [contact us](engage/).

@@ -22,8 +22,10 @@ description: Mission to reach screens
 navbar-links:
   Support: "https://patreon.com/vocamen"
   Services:
-    - Animations : "https://vocamen.com"
+    - Animations : "more/animations/"
+    - Movies : "more/storyboard/"
     - Websites : "more/generative/"
+    
   Mission: "#mission"
   Join: "engage/"
 
