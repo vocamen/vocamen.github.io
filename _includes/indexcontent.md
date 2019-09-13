@@ -68,7 +68,7 @@ Vocamen provides training in local [churches](#churches) to help develop a new k
 <a name="services"></a>
 
 ## Services
-Our mission also provide professional services to be able to develop its mission.
+Our mission also provide services to churches and other Christians Missions
 
 - [Trainings](patreon)
 - Films
@@ -78,7 +78,7 @@ Our mission also provide professional services to be able to develop its mission
 - [flyers]()
 - [cards]() t-shirts
 
-Please [contact us](more/engage/) with your specific needs for a quotation 
+Please [contact us](more/engage/) with your specific needs.
 
 <a name="communities"></a>
 
