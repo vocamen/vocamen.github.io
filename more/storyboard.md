@@ -42,7 +42,7 @@ Animation movies are built following different stages, here are the main ones:
 - post processing
 
 Do you ever wonder how much and why a script was changed after it was written?
-Would you like to write better to stick to human behavior?
+Would you like to write better stories that stick to human behavior?
 That's why we developed a professional tool analyzing movie documents to [reproduce steps from script to final movie](more/movies/).
 
 Feel free to [join us](https://patreon.com/vocamen) and share about your creations!
