@@ -8,9 +8,9 @@ use-site-title: true
 This simple 2D animation of a dynamic (and exhausting!) granny lasts 8 seconds.
 
 For these 8sec animation, you will need:
-- skills
+- Skills
 - 202 drawings or other mean to express the animation
-- approximately 8 hours of editing (cleaning, aligning, looping)
+- Approximately 8 hours of editing (cleaning, aligning, looping)
 
 This is why 2D animation movies require resources.
 We made it to show our skills and break down details.
