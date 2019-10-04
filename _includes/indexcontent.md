@@ -31,7 +31,7 @@ Today, we're making:
 
 Vocamen trains groups of volunteers in [churches](#churches).
 
-Vocamen encourages [Christian Talents]() by providing material and trainings for the lowest fee allowed by th platform: $1.
+Vocamen encourages [Christian Talents]() by providing material and trainings for the lowest fee allowed by the platform: $1.
 
 <a name="how"></a>
 
@@ -42,7 +42,7 @@ Vocamen encourages [Christian Talents]() by providing material and trainings for
 - [Tutorial]() and marketing
 
 ## With
-We have chosen to focus on free tools (open source prefered, freeware, given licenses) for our trainees to be able to acquire the tools at the beginning of training.
+We have chosen to focus on free tools (open source preferred, freeware, given licenses) for our trainees to be able to acquire the tools at the beginning of training.
 
 <a name="who"></a>
 
@@ -50,7 +50,7 @@ We have chosen to focus on free tools (open source prefered, freeware, given lic
 Vision and full time service.
 
 - P Manzano:
-  - Artisitic Diretor, Digital Marketing Manager, Entrepreneur
+  - Art Diretor, Digital Marketing Manager, Entrepreneur
 - R. T.:
   - Developer, Planning Manager
 - Add your name here! Engagement [welcome](more/engage/)
@@ -68,7 +68,7 @@ Vocamen provides training in local [churches](#churches) to help develop a new k
 <a name="services"></a>
 
 ## Services
-Our mission also provide services to churches and other Christians Missions
+Our mission also provide trainings to churches and other Christians Missions
 
 - [Trainings](patreon)
 - Films
@@ -90,7 +90,7 @@ You can join ours at [https://discord.gg/UHhR4NB](https://discord.gg/UHhR4NB)
 <a name="kindness"></a>
 
 ## Kindness Challenges
-Changing lives start with a first step and this new step could be a kind challenge.
+Changing lives start with a first step and this new step could be a kindness challenge.
 
 <a name="churches"></a>
 
