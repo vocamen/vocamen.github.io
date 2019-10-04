@@ -73,17 +73,17 @@ Our ministry provides services to churches and other Christians Ministries
 - [Trainings](patreon)
 - Films
 - VFX
-- [generative websites](more/generative/)
-- [magazines]()
-- [flyers]()
-- [cards]() t-shirts
+- [Generative websites](more/generative/)
+- [Magazines]()
+- [Flyers]()
+- [Cards](), t-shirts
 
 Please [contact us](more/engage/) with your specific needs.
 
 <a name="communities"></a>
 
 ## Communities
-Vocamen builds communities for passionate users and teach community management to willing people in churches.
+Vocamen builds communities for passionate users and teaches community management to willing people in churches.
 You can join ours at [https://discord.gg/UHhR4NB](https://discord.gg/UHhR4NB)
 
 
@@ -95,6 +95,6 @@ Changing lives start with a first step and this new step could be a kindness cha
 <a name="churches"></a>
 
 ## Churches
-This mission is towards local churches.
-We strive to equip people with a zeal for evangelization, art and tech.
-Don't hesitate to [contact us](more/engage/), share this website or even print this page as a leaflet to communicate the vision and encourage young and less young people to be creative and listening to God's plan in your local community.
+This mission is aimed at local churches.
+We strive to equip people with a zeal for sharing the gospel, art and tech.
+Don't hesitate to [contact us](more/engage/), share this website or even print this page as a leaflet to communicate the vision and encourage young and old people to be creative and listen for God's plan in your local community.
