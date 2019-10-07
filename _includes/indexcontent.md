@@ -1,9 +1,9 @@
 
 ## Why 
 ### Vision Statement
-> Reaching people on screens with Christ's love
+> To reach people through screens with Christ's love
 
-This is based on Matt28 Mission:
+This is based on Matt.28 Comission:
 > Jesus, undeterred, went right ahead and gave his charge: 
 > “God authorized and commanded me to commission you: 
 > Go out and train everyone you meet, far and near, in this way of life, marking them by
@@ -12,7 +12,7 @@ This is based on Matt28 Mission:
 and this is our [mission](#mission)
 
 <a name="ccc"></a>
-## Create-Cast-Care
+## Create > Cast > Care
 Vocamen reaches out through creative messages that it casts on different media and cares for the people that get them into their hearts.
 
 Today, we're making:
@@ -47,9 +47,9 @@ We have chosen to focus on free tools (open source preferred, freeware, given li
 <a name="who"></a>
 
 ## Who
-Vision and full time service.
+Vision and full time service:
 
-- P Manzano:
+- P Manzano
   - Art Diretor, Digital Marketing Manager, Entrepreneur
 - R. T.:
   - Developer, Planning Manager
@@ -57,33 +57,33 @@ Vision and full time service.
 
 <a name="mission"></a>
 ## Mission
-Vocamen is a Christian mission mainly based on internet.
+Vocamen is a Christian ministry mainly based online.
 Feel free to [engage](more/engage/) as a regional ambassador!
 
-Our mission benefits from financial gifts and monthly supports on [https://patreon.com/vocamen](https://patreon.com/vocamen)
+Our mission benefits from financial gifts and monthly support on [https://patreon.com/vocamen](https://patreon.com/vocamen)
 
 Vocamen provides training in local [churches](#churches) to help develop a new kind of outreach. 
-[Contact us](mailto:support@vocamen.com) to explain your specific needs and get more materials to help your evangelization.
+[Contact us](mailto:support@vocamen.com) to explain your specific needs and get more materials to help you share the gospel.
 
 <a name="services"></a>
 
 ## Services
-Our mission also provide trainings to churches and other Christians Missions
+Our ministry provides services to churches and other Christians Ministries
 
 - [Trainings](patreon)
 - Films
 - VFX
-- [generative websites](more/generative/)
-- [magazines]()
-- [flyers]()
-- [cards]() t-shirts
+- [Generative websites](more/generative/)
+- [Magazines]()
+- [Flyers]()
+- [Cards](), t-shirts
 
 Please [contact us](more/engage/) with your specific needs.
 
 <a name="communities"></a>
 
 ## Communities
-Vocamen builds communities for passionate users and teach community management to willing people in churches.
+Vocamen builds communities for passionate users and teaches community management to willing people in churches.
 You can join ours at [https://discord.gg/UHhR4NB](https://discord.gg/UHhR4NB)
 
 
@@ -95,6 +95,6 @@ Changing lives start with a first step and this new step could be a kindness cha
 <a name="churches"></a>
 
 ## Churches
-This mission is towards local churches.
-We strive to equip people with a zeal for evangelization, art and tech.
-Don't hesitate to [contact us](more/engage/), share this website or even print this page as a leaflet to communicate the vision and encourage young and less young people to be creative and listening to God's plan in your local community.
+This mission is aimed at local churches.
+We strive to equip people with a zeal for sharing the gospel, art and tech.
+Don't hesitate to [contact us](more/engage/), share this website or even print this page as a leaflet to communicate the vision and encourage young and old people to be creative and listen for God's plan in your local community.

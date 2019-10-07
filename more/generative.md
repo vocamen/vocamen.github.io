@@ -7,7 +7,7 @@ Building CMS websites on top of LAMP (Linux + Apache + MySQL + PHP) servers is e
 
 The load of adding plug-ins, features, rules, injection preventions, replication and re-creating pages on the fly by querying the database requires always growing servers, which is not financially wise nor friendly for the environment.
 
-If you might took the road of "one-shot-development + in-house-content-creation", you might be happy for a few years, despite ignoring security issues, but feel your website is outdating fast and user needs are evolving faster. You end up with content you need to migrate to a completely different platform.
+If you take the road of "one-shot-development + in-house-content-creation", you might be happy for a few years, despite ignoring security issues, but feel your website is outdating fast and user needs are evolving faster. You end up with content you need to migrate to a completely different platform.
 
 We've built multiple websites this way since 1996 and like many others, we needed to keep the pace with a complex world, not keeping piling-up features on top of others with the increasing risk of breaking anytime.
 Around 2012, backend developers started to think strategically and migrate to a new paradigm: client-side websites, and [we're not alone](https://medium.com/devseed/how-we-build-cms-free-websites-d7e19d94a0ff).
