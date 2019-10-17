@@ -9,7 +9,7 @@ This map is not just a map of a Pangea world, it also includes biomes, cultures,
 
 It is the beginning of 70 trips, 70 discoveries and wonders.
 
-But why building worlds? Does Christians need to do that?
+But why building worlds? Do Christians need to do this?
 
 ### C.S Lewis explains
 > We can make people (often) attend to the Christian point of view for half an hour or so;
