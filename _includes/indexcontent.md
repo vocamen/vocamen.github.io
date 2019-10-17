@@ -1,9 +1,9 @@
 
 ## Why 
 ### Vision Statement
-> To reach people through screens with Christ's love
+> To reach people with Christ's love through screens
 
-This is based on Matt.28 Comission:
+This is based on Matt.28 Commission:
 > Jesus, undeterred, went right ahead and gave his charge: 
 > “God authorized and commanded me to commission you: 
 > Go out and train everyone you meet, far and near, in this way of life, marking them by
@@ -13,7 +13,10 @@ and this is our [mission](#mission)
 
 <a name="ccc"></a>
 ## Create > Cast > Care
-Vocamen reaches out through creative messages that it casts on different media and cares for the people that get them into their hearts.
+Vocamen reaches out through: 
+- creative messages 
+- casts on different media
+- cares for the people that get them into their hearts.
 
 Today, we're making:
 
