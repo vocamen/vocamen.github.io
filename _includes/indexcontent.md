@@ -1,5 +1,6 @@
 ## New Challenges 2021!
 Discover some [kindness challenges to do](#challenges)
+This set is in English, we also support other languages.
 
 ## Why Vocamen
 ### Vision Statement
