@@ -105,3 +105,4 @@ We strive to equip people with a zeal for sharing the gospel, art and tech.
 Don't hesitate to [contact us](more/engage/), share this website or even print this page as a leaflet to communicate the vision and encourage young and old people to be creative and listen for God's plan in your local community.
 
 ## Challenges
+Here's a slideshow of challenges for you. Choose one to achieve today!
