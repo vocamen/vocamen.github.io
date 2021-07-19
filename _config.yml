@@ -1,5 +1,5 @@
 # --- General options --- #
-
+js: js/bundle.js
 # Name of website
 title: Vocamen
 
