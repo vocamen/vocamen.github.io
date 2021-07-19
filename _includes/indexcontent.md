@@ -1,5 +1,7 @@
+## Challenges
+Discover some [kindness challenges to do](#Challenges)
 
-## Quarantine UPDATE:Video Conference: ok.vocamen.com
+## Quarantine UPDATE:Video Conference: ok.vocamen.com, Juin 2020
 During this time of lock down in France, we deployed a video conference platform to listen and share with anxious and isolated people. 
 
 Durant ce temps de confinement en France, nous avons déployé une plateforme de viso pour écouter et partager avec les gens anxieux et isolés.
@@ -106,3 +108,5 @@ Changing lives start with a first step and this new step could be a kindness cha
 This mission is aimed at local churches.
 We strive to equip people with a zeal for sharing the gospel, art and tech.
 Don't hesitate to [contact us](more/engage/), share this website or even print this page as a leaflet to communicate the vision and encourage young and old people to be creative and listen for God's plan in your local community.
+
+## Challenges
