@@ -1,4 +1,4 @@
-## Challenges
+## New Challenges
 Discover some [kindness challenges to do](#Challenges)
 
 ## Quarantine UPDATE:Video Conference: ok.vocamen.com, Juin 2020
